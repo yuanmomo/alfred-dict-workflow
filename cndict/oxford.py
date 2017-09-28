@@ -9,10 +9,10 @@ import platform
 from distutils.version import StrictVersion
 from utils import *
 
-try:
-    import xml.etree.cElementTree as ET
-except ImportError:
-    import xml.etree.ElementTree as ET
+# try:
+#     import xml.etree.cElementTree as ET
+# except ImportError:
+import xml.etree.ElementTree as ET
 
 
 def lookup(word, external_cmd=True, parse_html=True, *args):
@@ -77,12 +77,12 @@ def lookup(word, external_cmd=True, parse_html=True, *args):
             html = ET.fromstring('<?xml' + xml)
             entry = html.find('.//{}entry'.format(ns))
 
-            word_span = entry.find("./span[@class='hwg']/span[@{}dhw]".format(ns))
+            word_span = entry.find("./span[@class='hwg x_xh0']/span[@{}dhw]".format(ns))
             if word_span is None:
                 continue
             if word_span.text.encode('utf-8').lower() == word.lower():
                 root = entry
-                phonetic_span = entry.find("./span[@class='hwg']/span[@class='pr']".format(ns))
+                phonetic_span = entry.find("./span[@class='hwg x_xh0']/span[@class='pr']".format(ns))
                 if phonetic_span is not None:
                     phonetic_spans.append(phonetic_span)
             else:
@@ -94,23 +94,31 @@ def lookup(word, external_cmd=True, parse_html=True, *args):
                 root = phrase_span
 
             for span1 in root.findall("./span[@lexid]"):
-                phonetic_span = span1.find("./span[@class='pr']")
+                phonetic_span = span1.find("./span[@class='x_xdh']/span[@class='pr']")
                 if phonetic_span is not None:
                     phonetic_spans.append(phonetic_span)
 
-                part_span = span1.find("./span[@class='ps']")
+                part_span = span1.find("./span[@class='x_xdh']/span[@class='ps']")
                 if part_span is None:
                     continue
                 part = part_map.get(part_span.text, part_span.text + '.')
                 for span2 in span1.findall("./span[@lexid]"):
                     item = ''
+                    countOf_trgg_x_xd2 = 0
                     for span3 in span2.findall('./span[@class]'):
-                        if span3.attrib['class'] == 'ind':
-                            item += ''.join(span3.itertext())
-                        elif span3.attrib['class'] == 'trg':
-                            for span4 in span3.findall('./span[@class]'):
-                                if span4.attrib['class'] != 'trans ty_pinyin':
-                                    item += ''.join(span4.itertext())
+                        if span3.attrib['class'] != 'trgg x_xd2':
+                            continue;
+                        if countOf_trgg_x_xd2 >= 1 :
+                            # 已经处理过 trgg x_xd2 标签，后面的忽略
+                            continue;
+                        countOf_trgg_x_xd2 += 1;
+                        for span4 in span3.findall('./*/span[@class]'):
+                            if span4.attrib['class'] == 'ind':
+                                item += ''.join(span4.itertext())
+                            elif span4.attrib['class'] == 'trans':
+                                item += ''.join(span4.itertext())
+                            elif span4.attrib['class'] != 'trans ty_pinyin':
+                                item += ''.join(span4.itertext())
 
                     item = re.sub(r' {2,}', ' ', item).strip()
                     if item:

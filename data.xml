@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    </head>
+    <body>
+        <d:entry id="e_22392" d:title="home" class="entry">
+            <span class="hwg x_xh0">
+                <span d:dhw="1" role="text" class="hw">home
+                    <span class="gp tg_hw"></span>
+                </span>
+                <span prxid="home_gb_jnrv" prlexid="pron0028649.001" dialect="BrE" class="prx">
+                    <span class="gp tg_prx">|</span>
+                    <span class="gp tg_prx">BrE</span>
+                    <span d:pr="US solitary" dialect="BrE" class="ph">həʊm</span>
+                    <span class="gp tg_prx">,</span>
+                </span>
+                <span prxid="home_us_jnrv" prlexid="pron0028649.002" dialect="AmE" class="prx">
+                    <span class="gp tg_prx">AmE</span>
+                    <span d:pr="US solitary" dialect="AmE" class="ph">hoʊm</span>
+                    <span class="gp tg_prx">|</span>
+                </span>
+                <span class="gp tg_hwg"></span>
+            </span>
+            <span lexid="b-en-zh_hans0017156.001" class="gramb x_xd0 hasSn">
+                <span class="x_xdh">
+                    <span class="gp sn ty_label tg_gramb">A.</span>
+                    <span class="gp tg_gramb"></span>
+                    <span class="ps">noun</span>
+                    <span class="gp"></span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.002" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">①</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">uncountable</span>
+                        <span class="gp">and</span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>one's house, flat
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">家</span>
+                            <span media="Online" class="trans ty_pinyin">jiā</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to leave home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="ind"><span class="gp tg_ind">(</span>to go out, go to work etc.
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">离开家</span>
+                            <span class="gp tg_trg"></span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="ind"><span class="gp tg_ind">(</span>move out
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">搬出去</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to set up home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="reg">British</span>
+                            <span class="trans">建立家庭</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to make one's home somewhere</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">在某处定居</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to be away from home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="ind"><span class="gp tg_ind">(</span>on business
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">外出工作不在家</span>
+                            <span class="gp tg_trg"></span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="ind"><span class="gp tg_ind">(</span>travelling
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">外出旅行不在家</span>
+                            <span media="Online" class="trans ty_pinyin">wàichū lǚxíng bùzài jiā</span>
+                            <span class="gp tg_trg"></span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="fld">Sport</span>
+                            <span class="reg">British</span>
+                            <span class="trans">在客场比赛</span>
+                            <span media="Online" class="trans ty_pinyin">zài kèchǎng bǐsài</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">close to <span class="underline">or</span> near (to) home
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="lev">figurative</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>accurate
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">正中要害</span>
+                            <span class="gp tg_trg"></span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="ind"><span class="gp tg_ind">(</span>affecting one directly
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">有直接影响</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">his questions were a bit too close to home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">他的问题有点过于直截了当</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">a home from
+                                <span class="reg">British</span>
+                                <span class="underline">or</span>
+                                away from <span class="reg">US</span> home
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">舒适如家的地方</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">home sweet home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">可爱的家</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">there's no place like home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="lev">proverb</span>
+                            <span class="trans">家总是家啊</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">home is where the heart is</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="lev">proverb</span>
+                            <span class="trans">心在哪儿，家就在哪儿</span>
+                        </span>
+                    </span>
+                    <span class="trgg x_xd2">
+                        <span class="gr">before noun
+                            <span class="gp tg_gr"></span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>of the place where one lives
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">家的</span>
+                            <span media="Online" class="trans ty_pinyin">jiā de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>surroundings
+                                <span class="gp tg_co">›</span>
+                            </span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="trans">家庭的</span>
+                            <span media="Online" class="trans ty_pinyin">jiātíng de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>background
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">troubles
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">furnishings
+                                <span class="gp tg_co">›</span>
+                            </span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>for use in one's own house
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">家用的</span>
+                            <span media="Online" class="trans ty_pinyin">jiāyòng de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>appliance
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">computer
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">a free home delivery service</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">免费送货上门服务</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">an increase in home repossessions</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">房屋收回数量的增长</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.003" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">②</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>family base
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">家庭</span>
+                            <span media="Online" class="trans ty_pinyin">jiātíng</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">‘good home wanted’</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">“为宠物寻找好人家”</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.004" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">③</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="fld">Business</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>property
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">房子</span>
+                            <span media="Online" class="trans ty_pinyin">fángzi</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">low-cost homes</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">廉价住宅</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.005" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">④</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">uncountable</span>
+                        <span class="gp">and</span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>one's town or district
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">家乡</span>
+                            <span media="Online" class="trans ty_pinyin">jiāxiāng</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>one's country
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">祖国</span>
+                            <span media="Online" class="trans ty_pinyin">zǔguó</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>where one lives
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">居住地</span>
+                            <span media="Online" class="trans ty_pinyin">jūzhùdì</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to make a place one's home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">在一处地方安家</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">my spiritual home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">我的精神家园</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.006" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑤</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>place of origin
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">发祥地</span>
+                            <span media="Online" class="trans ty_pinyin">fāxiángdì</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">Greece, the home of democracy</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">希腊，民主的发祥地</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">Wimbledon, the home of tennis</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">温布尔登，网球的发源地</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.007" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑥</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">uncountable</span>
+                        <span class="gp">and</span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>plant habitat
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">产地</span>
+                            <span media="Online" class="trans ty_pinyin">chǎndì</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>animal habitat
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">栖息地</span>
+                            <span media="Online" class="trans ty_pinyin">qīxīdì</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">this region is the home of many species of wild flower</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">这个地区有很多种类的野花</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">the Rockies are home to bears and mountain lions</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">落基山脉地区是熊和美洲狮的栖息地</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.008" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑦</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="lev">informal</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>place for keeping sth
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">存放地</span>
+                            <span media="Online" class="trans ty_pinyin">cúnfàng de</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to find a home for sth</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">找到存放某物的地方</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.009" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑧</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="cnt">countable</span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>place of residential care
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="ind"><span class="gp tg_ind">(</span>for old people
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">养老院</span>
+                            <span media="Online" class="trans ty_pinyin">yǎnglǎoyuàn</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>for children
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">保育院</span>
+                            <span media="Online" class="trans ty_pinyin">bǎoyùyuàn</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>for the mentally ill
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">精神病院</span>
+                            <span media="Online" class="trans ty_pinyin">jīngshénbìngyuàn</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>for the sick
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">疗养院</span>
+                            <span media="Online" class="trans ty_pinyin">liáoyǎngyuàn</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="reg">British</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>for pets
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">收养所</span>
+                            <span media="Online" class="trans ty_pinyin">shōuyǎngsuǒ</span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+            <span lexid="b-en-zh_hans0017156.010" class="gramb x_xd0 hasSn">
+                <span class="x_xdh">
+                    <span class="gp sn ty_label tg_gramb">B.</span>
+                    <span class="gp tg_gramb"></span>
+                    <span class="ps">adjective</span>
+                    <span class="gr">before noun
+                        <span class="gp tg_gr"></span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.012" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">①</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="lg"><span class="gp tg_lg">(</span>especially
+                            <span class="reg">British</span>
+                            <span class="gp tg_lg">)</span>
+                            <span class="gp tg_lg"></span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>national
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">国内的</span>
+                            <span media="Online" class="trans ty_pinyin">guónèi de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>affairs
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">news
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">market
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.013" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">②</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="fld">Sport</span>
+                            <span class="trans">主场的</span>
+                            <span media="Online" class="trans ty_pinyin">zhǔchǎng de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>match
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">player
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">crowd
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.014" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">③</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="reg">US</span>
+                            <span class="fld">Business</span>
+                            <span class="trans">总部的</span>
+                            <span media="Online" class="trans ty_pinyin">zǒngbù de</span>
+                            <span class="co"><span class="gp tg_co">‹</span>office
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+            <span lexid="b-en-zh_hans0017156.015" class="gramb x_xd0 hasSn">
+                <span class="x_xdh">
+                    <span class="gp sn ty_label tg_gramb">C.</span>
+                    <span class="gp tg_gramb"></span>
+                    <span class="ps">adverb</span>
+                    <span class="gp"></span>
+                </span>
+                <span id="e_DWS-001801" lexid="b-en-zh_hans0017156.016" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">①</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>to one's house, flat
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">到家</span>
+                            <span media="Online" class="trans ty_pinyin">dàojiā</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's house, flat
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在家</span>
+                            <span media="Online" class="trans ty_pinyin">zàijiā</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to see/drive sb home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">送某人/开车送某人回家</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">on the journey home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">在回家途中</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">when will he be home from work?</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">他什么时间下班回到家？</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to be nothing to write home about</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="lev">figurative</span>
+                            <span class="lev">informal</span>
+                            <span class="trans">平平常常</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to be home and dry <span class="reg">British</span>, to be home free
+                                <span class="reg">US</span>
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">成功</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.017" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">②</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>to one's town
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">向家乡</span>
+                            <span media="Online" class="trans ty_pinyin">xiàng jiāxiāng</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>to one's country
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">向祖国</span>
+                            <span media="Online" class="trans ty_pinyin">xiàng zǔguó</span>
+                            <span class="co"><span class="gp tg_co">‹</span>go
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">come
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">return
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.018" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">③</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's town
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在家乡</span>
+                            <span media="Online" class="trans ty_pinyin">zài jiāxiāng</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's country
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在祖国</span>
+                            <span media="Online" class="trans ty_pinyin">zài zǔguó</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">it's great to be home and seeing all my old friends again</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">回到家乡再次见到所有老朋友太好了</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">I wonder how everyone's getting on back home in England</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">我想知道大家在英格兰老家的情况</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.019" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">④</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="fld">Sport</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>in race
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">向终点</span>
+                            <span media="Online" class="trans ty_pinyin">xiàng zhōngdiǎn</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">the favourite romped home 3 lengths ahead</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">那匹热门马以领先3个马身的优势轻松到达终点</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.020" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑤</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>into position
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">到位</span>
+                            <span media="Online" class="trans ty_pinyin">dàowèi</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to hammer the nail home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">用锤子把钉子敲到头</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to drive the ball home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">踢球破门</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">the torpedo struck home on the hull of the ship</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">鱼雷正中船身</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.021" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑥</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="lev">figurative</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>creating awareness
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">深刻地</span>
+                            <span media="Online" class="trans ty_pinyin">shēnkè de</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to hit <span class="underline">or</span> strike home
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">正中要害</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">her remark really struck home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">她的话的确说到了点子上</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to drive <span class="underline">or</span> hammer sth home (to sb)
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">（给某人）把某事讲透彻</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">the television pictures brought home to us the full horror of the attack
+                            </span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">电视画面使我们清楚真切地了解到袭击的恐怖</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to come home to sb</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">使某人完全明白</span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+            <span lexid="b-en-zh_hans0017156.022" class="gramb x_xd0 hasSn">
+                <span class="x_xdh">
+                    <span class="gp sn ty_label tg_gramb">D.</span>
+                    <span class="gp tg_gramb"></span>
+                    <span class="frmg">
+                        <span class="frm">at home</span>
+                    </span>
+                    <span class="ps">adverb phrase</span>
+                    <span class="gp"></span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.023" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">①</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's house
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在家里</span>
+                            <span media="Online" class="trans ty_pinyin">zài jiā li</span>
+                            <span class="co"><span class="gp tg_co">‹</span>work
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">stay
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to live at home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">和父母一起生活</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.024" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">②</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>comfortable
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">舒适自在地</span>
+                            <span media="Online" class="trans ty_pinyin">shūshì zìzai de</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">he feels very at home on a horse</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">他骑马得心应手</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">he's not really at home on the stage</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">他在台上有点拘束</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">to make oneself at home</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">不拘束</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.025" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">③</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's town
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在本地</span>
+                            <span media="Online" class="trans ty_pinyin">zài běndì</span>
+                            <span class="gp tg_trg">;</span>
+                        </span>
+                        <span class="trg">
+                            <span class="ind"><span class="gp tg_ind">(</span>in one's country
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">在本土</span>
+                            <span media="Online" class="trans ty_pinyin">zài běntǔ</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">at home and abroad</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">在国内外</span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.026" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">④</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="fld">Sport</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>on own ground
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="cs"><span class="gp tg_cs">«</span>team
+                                <span class="gp tg_cs">»</span>
+                            </span>
+                            <span class="trans">在主场</span>
+                            <span media="Online" class="trans ty_pinyin">zài zhǔchǎng</span>
+                            <span class="co"><span class="gp tg_co">‹</span>win
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">lose
+                                <span class="gp tg_co">,</span>
+                            </span>
+                            <span class="co">draw
+                                <span class="gp tg_co">›</span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+                <span lexid="b-en-zh_hans0017156.027" class="semb x_xd1 hasSn">
+                    <span class="gp x_xdh sn ty_label tg_semb">⑤</span>
+                    <span class="trgg x_xd2">
+                        <span class="gp tg_semb"></span>
+                        <span class="trg">
+                            <span class="lev">dated</span>
+                            <span class="ind"><span class="gp tg_ind">(</span>receiving visitors
+                                <span class="gp tg_ind">)</span>
+                            </span>
+                            <span class="trans">准备好接待客人</span>
+                            <span media="Online" class="trans ty_pinyin">zhǔnbèi hǎo jiēdài kèrén</span>
+                        </span>
+                    </span>
+                    <span class="exg x_xd2 hasSn">
+                        <span class="x_xdh">
+                            <span class="sn">▸</span>
+                            <span class="ex">I'm not at home to anyone today</span>
+                        </span>
+                        <span class="trg x_xd3">
+                            <span class="trans">我今天不接待任何人</span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+            <span class="pvb x_xo0">
+                <span class="gp x_xoh x_xoLblBlk ty_label tg_pvb">PHRASAL VERB</span>
+                <span id="e_22392_0" class="pvsec x_xo1">
+                    <span class="pvg x_xoh">
+                        <span class="pv">home in on</span>
+                    </span>
+                    <span lexid="b-en-zh_hans0017156.028" class="gramb x_xo2">
+                        <span class="x_xdh">
+                            <span class="ps">transitive verb</span>
+                            <span class="pgr">
+                                <span class="gp tg_pgr">[</span>
+                                <span class="rf">
+                                    <span class="gp tg_rf">home</span>
+                                </span>
+                                in on sth
+                                <span class="gp tg_pgr">]</span>
+                            </span>
+                        </span>
+                        <span lexid="b-en-zh_hans0017156.029" class="semb x_xo3 hasSn">
+                            <span class="x_xdh">
+                                <span class="gp sn ty_label tg_semb">①</span>
+                                <span class="trg">
+                                    <span class="ind"><span class="gp tg_ind">(</span>move towards
+                                        <span class="gp tg_ind">)</span>
+                                    </span>
+                                    <span class="cs"><span class="gp tg_cs">«</span>missile
+                                        <span class="gp tg_cs">»</span>
+                                    </span>
+                                    <span class="trans">导向</span>
+                                    <span media="Online" class="trans ty_pinyin">dǎoxiàng</span>
+                                    <span class="co"><span class="gp tg_co">‹</span>target
+                                        <span class="gp tg_co">›</span>
+                                    </span>
+                                </span>
+                            </span>
+                            <span class="exg x_xo4 hasSn">
+                                <span class="x_xoh">
+                                    <span class="sn">▸</span>
+                                    <span class="ex">sharks can home in on tiny amounts of blood in the sea</span>
+                                </span>
+                                <span class="trg x_xo5">
+                                    <span class="trans">鲨鱼在海里能精确定位极少量的血</span>
+                                </span>
+                            </span>
+                        </span>
+                        <span lexid="b-en-zh_hans0017156.030" class="semb x_xo3 hasSn">
+                            <span class="x_xdh">
+                                <span class="gp sn ty_label tg_semb">②</span>
+                                <span class="trg">
+                                    <span class="ind"><span class="gp tg_ind">(</span>focus on
+                                        <span class="gp tg_ind">)</span>
+                                    </span>
+                                    <span class="trans">注意到某事物</span>
+                                    <span media="Online" class="trans ty_pinyin">zhùyì dào mǒu shìwù</span>
+                                </span>
+                            </span>
+                            <span class="exg x_xo4 hasSn">
+                                <span class="x_xoh">
+                                    <span class="sn">▸</span>
+                                    <span class="ex">the FBI has begun to home in on the Guatemalan connection</span>
+                                </span>
+                                <span class="trg x_xo5">
+                                    <span class="trans">联邦调查局已经盯上了危地马拉的贩毒网络</span>
+                                </span>
+                            </span>
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </d:entry>
+    </body>
+</html>
+

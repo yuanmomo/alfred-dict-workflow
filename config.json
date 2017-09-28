@@ -36,7 +36,7 @@
         "oxford":
         {
             "external_cmd": true,
-            "parse_html": true
+            "parse_html":true
         },
         "dictcn":
         {
@@ -49,7 +49,7 @@
     // + expire: cache expire time in hours
     "cache":
     {
-        "enable": true,
+        "enable": false,
         "expire": 24
     }
 }
